@@ -23,4 +23,3 @@ export default function Card(props,key) {
     </div>
   );
 }
-
